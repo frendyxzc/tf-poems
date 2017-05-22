@@ -1,3 +1,3 @@
 
-DATA_PATH = './data/src'
+DATA_PATH = './datas/src'
 SAVE_PATH= 'save'
