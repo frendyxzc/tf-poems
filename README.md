@@ -24,4 +24,5 @@ python3 generator.py --prime 执子之手
 
 ### 更多信息(博客)
 
-[为你写诗 [1]](http://frendy.vip/machine-learning/2017/05/23/tensorlow-poems.html)
++ [为你写诗 [1]](http://frendy.vip/machine-learning/2017/05/23/tensorlow-poems.html)
++ [为你写诗 [2]](http://frendy.vip/machine-learning/2017/05/24/tensorlow-poems-2.html)
